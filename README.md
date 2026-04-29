@@ -18,7 +18,7 @@
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="SQL" />
 
 <h3>Protocol</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Modbus_logo.svg/1024px-Modbus_logo.svg.png" height="40" title="Modbus TCP" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/modbus.png" height="45" title="Modbus TCP" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mqtt/660066" height="40" title="MQTT" />
 
 <h3>Hardware</h3>
