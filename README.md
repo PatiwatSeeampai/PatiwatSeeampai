@@ -9,8 +9,7 @@
 <h3>Framework</h3>
 <img src="https://cdn.simpleicons.org/fastapi/009485" height="40" title="FastAPI" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" title="PyTorch" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" title="TensorFlow" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/qt/FFFFFF" height="40" title="PyQt6 / PySide6" />
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" title="TensorFlow" />
 
 <h3>Programming Language</h3>
 <img src="https://cdn.simpleicons.org/python/3776AB" height="40" title="Python" />&nbsp;&nbsp;
