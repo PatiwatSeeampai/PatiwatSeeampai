@@ -56,6 +56,6 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/knime/F8E82C" height="40" title="KNIME" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" title="Power BI" 
 <img src="https://img.shields.io/badge/FreeRTOS-231F20?style=for-the-badge&logo=freertos&logoColor=white" title="FreeRTOS" /> 
-<img src="https://img.shields.io/badge/WSL-0078D7?style=for-the-badge&logo=windows&logoColor=white" title="Windows Subsystem for Linux" />/>
+<img src="https://img.shields.io/badge/WSL-0078D7?style=for-the-badge&logo=windows&logoColor=white" title="Windows Subsystem for Linux" />
 
 </div>
