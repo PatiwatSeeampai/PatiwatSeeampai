@@ -4,8 +4,15 @@
 
 I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree University of Technology, Highly motivated to build a career as a **Firmware and Test Engineer**.
 
-<a href="mailto:patiwat.seeampaiii@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/patiwat-seeampai"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br />
+
+<a href="mailto:patiwat.seeampaiii@gmail.com" title="Email Me">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/patiwat-seeampai" title="LinkedIn Profile">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" />
+</a>
 
 <br /><br />
 
@@ -43,7 +50,7 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 ### Database
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" title="MySQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" title="Oracle (Fixed)" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" title="Oracle" />
 
 ### Tool
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" title="Linux CLI" />&nbsp;&nbsp;
@@ -53,10 +60,10 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/platformio/F6822B" height="40" title="PlatformIO" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="40" title="Node-RED" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/knime/F8E82C" height="40" title="KNIME" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/FFFFFF" height="40" title="Power BI (Fixed)" />
+<img src="https://cdn.simpleicons.org/powerbi/FFFFFF" height="40" title="Power BI" />
 
 ### OS & RTOS
-<img src="https://cdn.simpleicons.org/freertos/79BA42" height="40" title="FreeRTOS (Fixed)" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/windows/FFFFFF" height="40" title="Windows Subsystem for Linux (Fixed)" />
+<img src="https://cdn.simpleicons.org/freertos/79BA42" height="40" title="FreeRTOS" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/windows/FFFFFF" height="40" title="Windows Subsystem for Linux" />
 
 </div>
