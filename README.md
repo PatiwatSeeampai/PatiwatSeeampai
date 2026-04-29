@@ -10,7 +10,7 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <br /><br />
 
 ### Framework
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" title="FastAPI" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/FFFFFF" height="40" title="FastAPI" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" title="PyTorch" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" title="TensorFlow" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" title="PyQt6 / PySide6" />
