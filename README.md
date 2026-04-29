@@ -44,7 +44,7 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 ### Database
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" title="MySQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" title="Oracle" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" title="Oracle" />
 
 ### Tool
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" title="Linux CLI" />&nbsp;&nbsp;
@@ -54,7 +54,10 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/platformio/F6822B" height="40" title="PlatformIO" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="40" title="Node-RED" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/knime/F8E82C" height="40" title="KNIME" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" title="Power BI" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" title="Power BI" />
 
 ### OS & RTOS
-<img src="https://img.shields.io/badge/FreeRTOS-231F20?style=for-the-badge&logo=freertos&logoColor=white" height="35" title="FreeRT
+<img src="https://img.shields.io/badge/FreeRTOS-231F20?style=for-the-badge&logo=freertos&logoColor=white" height="35" title="FreeRTOS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WSL-0078D7?style=for-the-badge&logo=windows&logoColor=white" height="35" title="Windows Subsystem for Linux" />
+
+</div>
