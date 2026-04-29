@@ -13,7 +13,7 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 
 ### Programming Language
 <img src="https://cdn.simpleicons.org/python/FFD43B" height="40" title="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" title="C" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/c/FFFFFF" height="40" title="C" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" height="40" title="C++" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" title="SQL" />
 
