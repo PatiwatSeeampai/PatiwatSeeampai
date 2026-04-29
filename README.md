@@ -22,28 +22,28 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" title="SQL" />
 
 ### Protocol
-<img src="https://img.shields.io/badge/Modbus_TCP-005571?style=for-the-badge" height="35" title="Modbus TCP" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Modbus_TCP-FF9900?style=for-the-badge&logoColor=white" height="35" title="Modbus TCP" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mqtt/FFFFFF" height="40" title="MQTT" />
 
 ### Hardware
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="40" title="ESP32" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" title="Arduino Uno" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" title="Raspberry Pi" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/siemens/FFFFFF" height="40" title="PLC Systems" />
+<img src="https://cdn.simpleicons.org/mitsubishi/BC0024" height="40" title="PLC (Mitsubishi)" />
 
 ### Library
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40" title="Matplotlib" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/seaborn/4470AD" height="40" title="Seaborn" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/roboflow/6706CE" height="40" title="Roboflow" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pymodbus-FF9900?style=for-the-badge" height="35" title="Pymodbus" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" title="Scikit-Learn" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="40" title="Pandas" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="40" title="NumPy" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" height="35" title="Matplotlib" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="35" title="Seaborn" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge" height="35" title="Roboflow" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pymodbus-2B5B84?style=for-the-badge" height="35" title="Pymodbus" />
+<img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="40" title="NumPy" />
 
 ### Database
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="40" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" title="MySQL" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" title="Oracle" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" title="Oracle" />
 
 ### Tool
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" title="Linux CLI" />&nbsp;&nbsp;
@@ -53,10 +53,10 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/platformio/F6822B" height="40" title="PlatformIO" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="40" title="Node-RED" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/knime/F8E82C" height="40" title="KNIME" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" title="Power BI" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" title="Power BI" />
 
 ### OS & RTOS
-<img src="https://img.shields.io/badge/FreeRTOS-231F20?style=for-the-badge&logo=freertos&logoColor=white" height="35" title="FreeRTOS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FreeRTOS-79BA42?style=for-the-badge&logo=freertos&logoColor=white" height="35" title="FreeRTOS" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/WSL-0078D7?style=for-the-badge&logo=windows&logoColor=white" height="35" title="Windows Subsystem for Linux" />
 
 </div>
