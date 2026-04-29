@@ -2,7 +2,7 @@
 
 # Hi 👋! My name is Patiwat Seeampai.
 
-<h3>Manufacturing Automation and Robotics Engineering graduate from Suranaree University of Technology, Highly motivated to build a career as a **Firmware and Test Engineer**.</h3>
+<h3>Manufacturing Automation and Robotics Engineering graduate from Suranaree University of Technology, Highly motivated to build a career as a Firmware and Test Engineer.</h3>
 
 <br />
 
