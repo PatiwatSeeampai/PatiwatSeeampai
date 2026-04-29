@@ -32,7 +32,6 @@ I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree
 <img src="https://cdn.simpleicons.org/siemens/FFFFFF" height="40" title="PLC Systems" />
 
 ### Library
-<img src="https://cdn.simpleicons.org/opencv/FFFFFF" height="40" title="OpenCV" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" title="Scikit-Learn" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="40" title="Pandas" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="40" title="NumPy" />&nbsp;&nbsp;
