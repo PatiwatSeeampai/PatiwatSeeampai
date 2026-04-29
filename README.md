@@ -4,16 +4,6 @@
 
 I am a Manufacturing Automation and Robotics Engineering graduate from Suranaree University of Technology, Highly motivated to build a career as a **Firmware and Test Engineer**.
 
-<br />
-
-<a href="mailto:patiwat.seeampaiii@gmail.com" title="Email Me">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/patiwat-seeampai" title="LinkedIn Profile">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" />
-</a>
-
 <br /><br />
 
 ### Framework
